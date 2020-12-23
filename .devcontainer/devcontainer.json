@@ -19,7 +19,7 @@
         "python.pythonPath": "/usr/bin/python3",
         "python.linting.enabled": false
     },
-    "workspaceMount": "src=/home/kitsune-udon/genomics_ood,dst=/work,type=bind",
+    "workspaceMount": "src=/home/kitsune-udon/ood_work,dst=/work,type=bind",
     "mounts": ["source=/srv/work/imagenet,target=/imagenet,type=bind"],
     // Uncomment the next line if you want to publish any ports.
     "appPort": [6006],
