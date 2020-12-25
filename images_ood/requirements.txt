@@ -1,8 +1,7 @@
 numpy>=1.13.3
 tensorflow==1.15.0
-tf-nightly-gpu
-tensorflow_probability
-tfp-nightly
+tensorflow-gpu==1.15.0
+tensorflow-probability
 tensorflow_datasets
 pillow
 matplotlib
